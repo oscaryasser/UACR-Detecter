@@ -1,0 +1,5 @@
+{
+  "name": "NephroTrack KDIGO",
+  "description": "Clinical decision support tool for CKD monitoring based on KDIGO guidelines. Features offline support, patient tracking, and automated risk stratification.",
+  "requestFramePermissions": []
+}
